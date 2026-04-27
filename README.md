@@ -1,45 +1,49 @@
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⠆⠀⠀  ⠀⠀⢀⣰⡼⠟⠁
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⡗⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣶⢿⣯⣿⡙⠀  ⠀⢀⣴⢶⣿⠉⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣾⣿⣿⡃⠀⠀⠀⣀⣠⣤⣿⣿⣿⣿⣟⣷⡯  ⣠⣶⣾⡟⠛⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣿⣿⣿⣿⣿⣤⣤⣾⣿⣿⣿⣟⣷⠿⢟⣹⡿⣶⣞⣿⣷⠗⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟  ⢨⣽⣿⢿⣿⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢀⣀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠇⠃⠀⠀ ⣧⣿⡿⡟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⢀⣀⣴⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠃⠀⠀⠀ ⢀⣸⡿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠰⠶⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢷⠀⠀⠀⠀⠈⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠉⠙⠻⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢰⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⠉⠀⠉⠙⠛⢿⣿⣿⣿⡿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣿⣿⡟⠛⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⠻⠿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢰⠾⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
 
-hello, i'm **hannah !** ✦ 
+<div align="center">
+
+```⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⡏⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠤⣤⣤⣤⣤⣤⣤⣤⣤⣿⣿⠇⠀⢿⣿⣷⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⡶⠶⠶⠶⠶⠶⠶⠶⠶⠖⠒⠒⠒⠒⠒⠒⠒⠂⠀⠀⠀⠀
+⠀⠀⠘⢿⣿⣿⣟⠛⠛⠛⠛⠀⠀⠀⠛⠛⠛⠛⠋⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠈⠛⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢹⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣾⣿⠁⢀⣤⣾⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣸⣿⢇⣶⣿⠟⠙⠻⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢠⣿⣿⠿⠋⠁⠀⠀⠀⠀⠉⠳⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
+</div>
+
+## hello, i'm hannah ! ✦
 
 `bscs student` · `philippines`
 
-this space is where i keep the things I build !
+this space is where i keep the things i build.
 
-each project reflects something i’ve learned, explored, or challenged myself to understand, basically small pieces that show how i grow over time.
-
+each project reflects something i've learned, explored, or challenged myself to understand — basically small pieces that show how i grow over time.
 
 ---
 
-`// what i'm working on`
+## `// what i'm working on`
 
 - 🦯 **MIJI** — ai-powered assistive math tool for blind learners 
 - 🎬 **Boxdly** — letterboxd companion app with smart movie picker 
 
 ---
 
-`// github stats`
+## `// github stats`
 
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=yakkisobba&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yakkisobba&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![streak](https://streak-stats.demolab.com/?user=yakkisobba&theme=gotham&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakkisobba&theme=gotham&hide_border=true&layout=compact)
+
+</div>
 ---
 
-`// tech stack`
+## `// tech stack`
 
 **languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -77,13 +81,13 @@ each project reflects something i’ve learned, explored, or challenged myself t
 
 ---
 
-`// outside of code`
+## `// outside of code`
 
 watching films · going on runs · university org
 
 ---
 
-`// connect`
+## `// connect`
 
 [![Portfolio](https://img.shields.io/badge/portfolio-hannahparayno.netlify.app-black?style=flat-square&logo=netlify&logoColor=white)](https://hannahparayno.netlify.app/)
 [![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hannahparayno16@gmail.com)
