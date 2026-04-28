@@ -26,13 +26,6 @@ each project reflects something i've learned, explored, or challenged myself to 
 
 ---
 
-## `// what i'm working on`
-
-- 🦯 **MIJI** — ai-powered assistive math tool for blind learners 
-- 🎬 **Boxdly** — letterboxd companion app with smart movie picker 
-
----
-
 ## `// github stats`
 
 <div align="center">
@@ -78,12 +71,6 @@ each project reflects something i've learned, explored, or challenged myself to 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7)
-
----
-
-## `// outside of code`
-
-watching films · going on runs · university org
 
 ---
 
