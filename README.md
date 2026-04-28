@@ -31,7 +31,6 @@ each project reflects something i've learned, explored, or challenged myself to 
 <div align="center">
 
 ![streak](https://streak-stats.demolab.com/?user=yakkisobba&theme=gotham&hide_border=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakkisobba&theme=gotham&hide_border=true&layout=compact)
 
 </div>
 ---
