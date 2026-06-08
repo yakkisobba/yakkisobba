@@ -75,6 +75,6 @@ each project reflects something i've learned, explored, or challenged myself to 
 
 ## `// connect`
 
-[![Portfolio](https://img.shields.io/badge/portfolio-hannahparayno.netlify.app-black?style=flat-square&logo=netlify&logoColor=white)](https://hannahparayno.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/portfolio-hannahparayno.vercel.app-black?style=flat-square&logo=netlify&logoColor=white)](https://hannahparayno.vercel.app/)
 [![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hannahparayno16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hannahparayno)
